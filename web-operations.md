@@ -13,7 +13,8 @@ Web Operations — John Allspaw & Jesse Robbins[^1]
 [Apache Webserver](http://httpd.apache.org/docs/2.4/)
 [nginx Webserver](http://nginx.org/en/docs/)
 [Phusion Passenger](https://www.phusionpassenger.com/documentation_and_support)
-[Script & Snippets](https://github.com/multimediatechnology/web-operations)
+[Book](https://github.com/multimediatechnology/web-operations)
+[Scripts & Snippets](http://eliias.github.io/web-operations/index.html)
 
 [^1]: ISBN: 978-1-449-37744-1
 
